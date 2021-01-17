@@ -10,7 +10,7 @@
 
 ## NODE JS NOTES
 - NodeJS is a JavaScript code interpretor;
-- It was created based on (V8 JavaScript Engine)[https://v8.dev/] (that was created for Google Chrome);
+- It was created based on [V8 JavaScript Engine](https://v8.dev/) (that was created for Google Chrome);
 - NodeJS and V8 is written in C#;
 - Even though NodeJS was written in C#, its function is to understand only JavaScript;
 - NodeJS has the power to answer lots of protocols, for example: "HTTP" (so our application will be able to communicate using requests);
